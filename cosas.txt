@@ -1,0 +1,16 @@
+-------¿Qué necesita saber hacer un programador?------
+-----Ayudas----
+https://www.freecodecamp.org/learn/front-end-development-libraries/ me permite tener un curso superior yendo poco a poco, son tutoriales
+"python design patterns" son herramientas para poder resolver múltiples problemas
+Página para verificar algoritmos en multiples lenguajes https://rosettacode.org/wiki/Dijkstra%27s_algorithm
+Resolver problemas en https://projecteuler.net/archives
+https://overthewire.org/wargames/bandit/ para la consola de comandos
+https://leetcode.com/
+-----Ayudas-----
+-----Necesito esto pal webscrapper---
+https://reqbin.com/req/c-ekublyqq/curl-user-agent
+----Necesito esto pal webscrapper----
+Saber leer bien la documentación.
+Linux
+Web-Scrapping
+Programar de API.

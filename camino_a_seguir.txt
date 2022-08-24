@@ -1,0 +1,26 @@
+Método find_all()
+El método, va a buscar a través de un TAG, todos los descendientes que haya en ese tag, y va a devo
+lver todos los que coincidan con el filtro.
+Esos filtros, vendrán entre comillas. Y sencillamente recuperarán esos datos.
+
+Usando por ejemplo:
+soup.find_all("p","title")
+Nos podemos encontrar que el método devolverá un tag >p< y debemos preguntarnos por qué, por que también
+ nos envía el class title.
+
+
+Uno de los argumentos de find_all es "name"
+Si pasamos un valor como un argumento "name" le diremos
+al objeto que debería solo considerar TAGS con ese
+nombre. Cadenas de texto serán ignorados así como los
+tags que no coincidan con el "name"
+
+Es importante, notar, que "name" puede ser un str, una expresión, una función o el valor True.
+
+
+
+
+---------TAGS------
+Los tags, en una página web nos permiten cimentar la información.
+Un TAG por ejemplo es <p> y se cerraría con <p\> indicando que en esa etiqueta habrá una serie de valores, incluso atributos que pueden indicarnos más sobre lo que se mostrará en pantalla
+De esta manera nos permitirá con distintas y numerosas etiquetas ir estructurando la info que tenemos.
